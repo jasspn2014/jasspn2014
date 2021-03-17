@@ -2,8 +2,7 @@
 
 - 🔭 I’m currently working on Projects on Web Development
 - 🌱 I’m currently learning React
-- 👯 I’m looking to collaborate on ReactJS
-- 🤔 I’m looking for help with 
+- 👯 I’m looking to collaborate on React
 - 💬 Ask me about Anything
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a Foodie.
