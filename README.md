@@ -9,7 +9,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="jasspn2014 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][Linkedin]
+[<img align="left" alt="jasspn2014 | LinkedIn" width="22px" color="#777" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][Linkedin]
 [<img align="left" alt="jasspn2014 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][Facebook]
 [<img align="left" alt="jasspn2014 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
 
