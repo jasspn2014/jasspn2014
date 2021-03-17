@@ -11,8 +11,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="jasspn2014 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin](https://www.linkedin.com/in/jasspn2014)
-[<img align="left" alt="jasspn2014 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][Facebook](https://www.facebook.com/jasspn2014)
-[<img align="left" alt="jasspn2014 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram](https://www.instagram.com/im_jasmeetsingh)
+[<img align="left" alt="jasspn2014 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="jasspn2014 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][Facebook]
+[<img align="left" alt="jasspn2014 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [![Jasmeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasspn2014)](https://github.com/jasspn2014/github-readme-stats)
