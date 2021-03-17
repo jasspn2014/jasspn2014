@@ -5,6 +5,6 @@
 - 👯 I’m looking to collaborate on ReactJS
 - 🤔 I’m looking for help with 
 - 💬 Ask me about Anything
-- 📫 How to reach me: [Instagram](https://www.instagram.com/im_jasmeetsingh)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/jasspn2014) [Instagram](https://www.instagram.com/im_jasmeetsingh) [Facebook](https://www.facebook.com/jasspn2014)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a Foodie.
