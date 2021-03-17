@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on React
 - 💬 Ask me about Anything
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I am a Foodie.
 
 ### Connect with me:
