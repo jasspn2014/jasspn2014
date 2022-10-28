@@ -44,5 +44,5 @@
 
 
 [Linkedin]: https://www.linkedin.com/in/jasspn2014
-[Instagram]: https://www.instagram.com/im_jasmeetsingh
+[Instagram]: https://www.instagram.com/im__jasmeetsingh
 [Facebook]: https://www.facebook.com/jasspn2014
